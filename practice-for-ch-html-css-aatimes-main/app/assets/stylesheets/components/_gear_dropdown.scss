@@ -1,3 +1,10 @@
 // Use the gear_dropdown.png screenshot as a style guide
 
 @use '../variables' as *;
+
+#gear-dropdown{
+    background-color: red;
+    position:absolute;
+    display:block;
+}
+

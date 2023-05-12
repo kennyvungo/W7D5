@@ -9,6 +9,11 @@
 	text-align: center;
 }
 
+img{
+width: 30%;
+
+}
+
 .language-nav {
 	position: absolute;
 	top: -15px;
@@ -69,7 +74,7 @@
 		border-right: 1px solid $light-gray;
 		text-transform: uppercase;
 		font-family: Arial, Helvetica, sans-serif;
-		font-size: 7px;
+		font-size: 9px;
 	}
 
 	button {
